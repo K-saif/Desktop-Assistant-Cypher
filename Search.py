@@ -42,4 +42,3 @@ def youtubeSearch(query):
         webbrowser.open(web)
         pywhatkit.playonyt(query)
         speak("Done")
-
